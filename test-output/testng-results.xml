@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T02:57:33 IST" name="Suite" finished-at="2023-12-01T02:57:51 IST" duration-ms="18284">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T02:57:33 IST" name="Test" finished-at="2023-12-01T02:57:51 IST" duration-ms="18284">
+      <class name="test.Fbcreatepagetest">
+        <test-method signature="createpage()[pri:0, instance:test.Fbcreatepagetest@63376bed]" started-at="2023-12-01T02:57:47 IST" name="createpage" finished-at="2023-12-01T02:57:51 IST" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createpage -->
+      </class> <!-- test.Fbcreatepagetest -->
+      <class name="test.Facebooklogintest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Facebooklogintest@20140db9]" started-at="2023-12-01T02:57:33 IST" name="setUp" finished-at="2023-12-01T02:57:42 IST" duration-ms="9491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testlogin()[pri:0, instance:test.Facebooklogintest@20140db9]" started-at="2023-12-01T02:57:42 IST" name="testlogin" finished-at="2023-12-01T02:57:47 IST" duration-ms="4678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- test.Facebooklogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
